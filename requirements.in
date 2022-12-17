@@ -1,0 +1,9 @@
+pip_tools==6.12.0
+numpy==1.23.5
+pandas==1.5.2
+matplotlib==3.6.2
+umap==0.1.1
+jupyterlab==3.5.1
+bokeh==3.0.3
+scikit_learn==1.2.0
+ipykernel==6.19.2
